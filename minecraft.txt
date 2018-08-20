@@ -4,3 +4,4 @@ create world
 
 generate terrain
 create village
+generate wild animals
