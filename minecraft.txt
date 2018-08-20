@@ -2,4 +2,5 @@ Minecraft World
 
 create world
 
-spawn villager
+generate terrain
+create village
