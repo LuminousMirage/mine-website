@@ -1,2 +1,1 @@
 # mine-website
-www
