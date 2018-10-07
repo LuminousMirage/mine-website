@@ -2,6 +2,6 @@ Minecraft World
 
 create world
 
-generate terrain
-create village
-generate wild animals
+generate terrain --
+create village --
+generate wild animals --
