@@ -1,4 +1,3 @@
 generate terrain --
 create village --
 generate wild animals --
-etc --
