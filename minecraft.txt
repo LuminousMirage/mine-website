@@ -1,3 +1,4 @@
 generate terrain --
 create village --
 generate wild animals --
+select weather --
