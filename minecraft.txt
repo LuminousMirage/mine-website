@@ -2,4 +2,4 @@ generate terrain --
 create village --
 select weather --
 generate wild animals --
-manage location
+manage location --
