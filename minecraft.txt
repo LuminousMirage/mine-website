@@ -3,4 +3,3 @@ create village --
 select weather --
 generate wild animals --
 random location --
-allocate position --
