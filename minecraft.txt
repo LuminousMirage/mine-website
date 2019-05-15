@@ -3,4 +3,4 @@ create village --
 select weather --
 generate wild animals --
 random location --
-graph coordinate --
+graph coordination --
